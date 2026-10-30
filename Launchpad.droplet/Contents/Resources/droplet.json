@@ -1,0 +1,37 @@
+{
+  "id": "launchpad",
+  "name": "Launchpad",
+  "version": "2.4.0",
+  "summary": "The fullscreen launchpad, built into Droppy",
+  "description": "Launchpad puts the old Launchpad back on Droppy\u2019s shelf. Tap the tile and a fullscreen dark-glass sheet opens over whatever you were doing: every installed app on this Mac, on swipeable pages with big icons and a search bar.\n\nType to filter, Return opens the first match, Escape or a click on the desktop closes, and the trackpad pinch opens and closes it like the original. A no-match query hands off to Siri.",
+  "category": "Productivity",
+  "kit": {
+    "abi": 1,
+    "minAPI": "1.9.0"
+  },
+  "minAppVersion": "15.3.0",
+  "capabilities": [],
+  "surfaces": [
+    "shelf-widget",
+    "settings-pane"
+  ],
+  "icon": "Launchpad.icon",
+  "creator": {
+    "name": "Gabriel Quek",
+    "kind": "community",
+    "url": "https://github.com/gabrielquek",
+    "avatar": "Creator.png"
+  },
+  "source": {
+    "repository": "https://gitlab.com/droppyformac1/droplets/-/tree/main/droplets/launchpad",
+    "license": "AGPL-3.0"
+  },
+  "screenshots": [],
+  "keywords": [
+    "launchpad",
+    "launcher",
+    "apps",
+    "open",
+    "start"
+  ]
+}
